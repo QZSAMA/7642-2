@@ -1,0 +1,19 @@
+Processing Traveling Salesman Problem
+TSP Locations Generated :  [(8.442521851442361, 4.84874446727105), (7.576642810071127, 7.022839884753857), (3.4491741611768942, 2.6443103293307137), (2.7302455751878476, 4.022708657237537), (6.395923525701905, 4.8190837380945215), (9.685263750250416, 5.207920537094105), (1.9957441608528703, 0.6318087779473325), (0.011215183082695646, 4.858940635122026), (7.195934666712011, 3.727775998434646), (6.2943839838599525, 0.3317364133905498)]     
+Randomized Hill Climbing
+Randomized Hill Climbing Time Cost (20runs) :   0:00:00.202392  Average time cost : 0:00:00.010120
+Simulated Annealing
+Simulated Annealing Time Cost (20runs) :        0:00:00.250508  Average time cost : 0:00:00.012525
+Genetic Algorithm
+Genetic Algorithm Time Cost (20runs) :  0:00:49.148489  Average time cost : 0:00:02.457424
+MIMIC
+MIMIC Time Cost (20runs) :      0:04:26.984334  Average time cost : 0:00:13.349217
+Processing N-Queen Problem (N=5)
+Randomized Hill Climbing
+Randomized Hill Climbing Time Cost (20runs) :   0:00:00.322897  Average time cost : 0:00:00.016145
+Simulated Annealing
+Simulated Annealing Time Cost (20runs) :        0:00:00.549565  Average time cost : 0:00:00.027478
+Genetic Algorithm
+Genetic Algorithm Time Cost (20runs) :  0:01:08.118977  Average time cost : 0:00:03.405949
+MIMIC
+MIMIC Time Cost (20runs) :      0:01:08.426969  Average time cost : 0:00:03.421348
